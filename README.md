@@ -1,5 +1,8 @@
 # Drunk Driver Detection IoT System: Automotive Alcohol Interlock with Blynk IoT Telemetry & Automatic Ignition Lockout
 
+
+[![Firmware CI](https://github.com/ParthDalakoti/drunk-driver-detection-iot-system/actions/workflows/firmware-ci.yml/badge.svg)](https://github.com/ParthDalakoti/drunk-driver-detection-iot-system/actions) [![Wokwi Simulation](https://img.shields.io/badge/Simulation-Wokwi_Virtual_Lab-00B4D8.svg?style=for-the-badge&logo=espressif)](https://wokwi.com)
+
 [![Microcontroller](https://img.shields.io/badge/MCU-ESP8266_NodeMCU-000000.svg?style=for-the-badge&logo=espressif)](https://www.espressif.com/)
 [![Sensor](https://img.shields.io/badge/Sensor-MQ--3_Electrochemical-FF9800.svg?style=for-the-badge)]()
 [![IoT Platform](https://img.shields.io/badge/IoT-Blynk_2.0-24C780.svg?style=for-the-badge)](https://blynk.io/)
@@ -84,3 +87,12 @@ graph TD
 *B.Tech in Electronics & Communication Engineering (2023–2027)*  
 *Graphic Era Hill University (GEHU), Bhimtal Campus*  
 *President, Robotics & Automation Club, GEHU*
+
+---
+
+## 📸 Hardware Bench Test Photos
+
+![Hardware Prototype Setup](media/hardware_demo_1.jpg)
+
+![Hardware Prototype Setup](media/hardware_demo_2.jpg)
+
